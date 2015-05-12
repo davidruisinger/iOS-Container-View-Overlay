@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA92C6AB-5DF5-4FFF-9750-0D9B730047AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Details Overlay</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>44292F1A9D93133B5131368CF303B7C2EB4E9A1F</key>
+		<string>https://github.com/flavordaaave/iOS-Container-View-Overlay.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Details Overlay.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>44292F1A9D93133B5131368CF303B7C2EB4E9A1F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/flavordaaave/iOS-Container-View-Overlay.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>44292F1A9D93133B5131368CF303B7C2EB4E9A1F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>44292F1A9D93133B5131368CF303B7C2EB4E9A1F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Details%20Overlay</string>
+		</dict>
+	</array>
+</dict>
+</plist>
